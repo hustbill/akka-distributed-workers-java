@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-Typesafe Activator template for distributed workers with Akka Cluster in Java.
-=======
-akka-distributed-workers-java
-=============================
 
 akka-distributed-workers-java
->>>>>>> d94fdf1d91a8d33af6a2e67f00969e5842f5f7e6
+=======
+Typesafe Activator template for distributed workers with Akka Cluster in Java.
+
+[The Goal]
+This example will explain how to implement distribtued workers with Akka cluster features. 
+Because one single box obviously has limited resources, so our application need to distribtue work to many machines. 
